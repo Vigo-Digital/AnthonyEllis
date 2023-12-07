@@ -68,19 +68,19 @@
 
   // disable map rotation using touch rotation gesture
   map.touchZoomRotate.disableRotation();
-  //map.scrollZoom.disable();
+  map.scrollZoom.disable();
 
 
-	// Adjust zoom of map for mobile and desktop
+	/* Adjust zoom of map for mobile and desktop
 	let mq = window.matchMedia("(min-width: 480px)");
 	if (mq.matches) {
 		map.setZoom(2.2); //set map zoom level for desktop size
 	} else {
 		map.setZoom(2.2); //set map zoom level for mobile size
-	}
+	}*/
 
 	// Add zoom and rotation controls to the map.
-	//map.addControl(new mapboxgl.NavigationControl());
+	map.addControl(new mapboxgl.NavigationControl());
 
 	// Get cms items
 	let listLocations = document.getElementById("location-list").childNodes;
