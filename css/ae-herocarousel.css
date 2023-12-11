@@ -1,6 +1,6 @@
-.herocarousel.swiper-slide {
+/*.herocarousel .swiper-slide {
   width: 100% !important;
-}
+*/
 :root {
   --swiper-pagination-color: #FFF;
 }
