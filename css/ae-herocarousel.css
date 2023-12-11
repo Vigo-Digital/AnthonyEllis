@@ -66,6 +66,6 @@
   text-transform: uppercase;
 }
 
-mapcarousel-slide.swiper-slide {
+.mapcarousel-slide.swiper-slide {
   margin-top: 0px !important;
 }
