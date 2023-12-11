@@ -1,0 +1,53 @@
+.fs-rangeslider_handle {
+	top: 80% !important;
+}
+.fs-rangeslider_handle:focus .fs-rangeslider_input {
+color: white;
+}
+.fs-rangeslider_handle:focus .fs-rangeslider_handle {
+color: white;
+}
+.fs-rangeslider_input:hover {
+color: white;
+}
+.fs-rangeslider_handle:hover {
+color: white;
+}
+
+.fs-rangeslider_handle:focus .fs-rangeslider_handle-value {
+	background-color: #404041;
+}
+
+.fs-rangeslider_handle-value {
+		padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 2px !important;
+    padding-right: 2px !important;
+}
+:focus-visible {
+  outline: none !important;
+}
+.fs-rangeslider_handle:focus {
+	background-color: white;
+}
+.scrubber-elipse {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: -2.5px;
+    top: -3px;;
+    background: #FFFFFF;
+    transform: rotate(90deg);
+    border-radius: 50%;
+}
+.fs-rangeslider_handle:focus .scrubber-hover {
+		position: absolute;
+    width: 16px;
+    height: 16px;
+    left: -5px;
+    top: -5px;
+    background: #FFFFFF;
+    transform: rotate(90deg);
+    border-radius: 50%;
+    background: rgba(255, 255, 255, .3);
+}
