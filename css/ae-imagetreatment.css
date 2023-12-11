@@ -1,3 +1,5 @@
+
+/* Won't work - needs width and height */
 .img-radial-blur::after {
   content: '';
   opacity: 0.2;
