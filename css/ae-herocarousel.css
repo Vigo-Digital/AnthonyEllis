@@ -65,3 +65,7 @@
   height: 48px;
   text-transform: uppercase;
 }
+
+mapcarousel-slide.swiper-slide {
+  margin-top: 0px !important;
+}
