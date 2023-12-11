@@ -40,13 +40,6 @@
   width: 100%; height: 100%;
   background: linear-gradient(to left, rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.7));
 }
-.img-radial-blur::after {
-  content: '';
-  position: absolute;
-  left: 0; top: 0;
-  width: 100%; height: 100%;
-  background: radial-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 1));
-}
 #countryIcon img {
     -webkit-filter: invert(1);
    filter: invert(1);
