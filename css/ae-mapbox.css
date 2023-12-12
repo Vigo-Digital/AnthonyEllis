@@ -43,3 +43,7 @@
 	min-width: 800px !important;
   object-fit: fill;
 }
+
+.poppedup-latlong {
+  font-size: 10px;
+}
