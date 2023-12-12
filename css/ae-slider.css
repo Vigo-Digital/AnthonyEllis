@@ -53,4 +53,6 @@ color: white;
 }
 .fs-rangeslider_track {
   border-top: 1px solid #878788;
+  border-left: 1px solid #878788;
+  border-right: 1px solid #878788;
 }
