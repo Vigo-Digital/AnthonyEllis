@@ -13,3 +13,7 @@ a.mapboxgl-ctrl-logo {
   line-height: normal;
   letter-spacing: 0.17px;
 }
+
+.captionblock {
+  text-transform: uppercase;
+}
