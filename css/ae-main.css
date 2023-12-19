@@ -5,3 +5,11 @@
 a.mapboxgl-ctrl-logo {
   display:none !important;
 }
+
+.captionblock b {
+  color: white;
+  font-size: 17px;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.17px;
+}
