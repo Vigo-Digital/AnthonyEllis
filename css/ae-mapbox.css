@@ -26,23 +26,6 @@
 .mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip {
     border-top-color: black;
 }
-.w-dyn-list .w-col-4:nth-child(odd) {
-	max-width: 10%;
-  -webkit-mask: -webkit-linear-gradient(black, transparent 30%, black);
-  -webkit-mask: linear-gradient(black, transparent 30%, black);
-  -webkit-filter: blur(3px);
-}
-.w-dyn-list .w-col-4:nth-child(odd) img {
-	min-height: 800px;
-}
-.w-dyn-list .w-col-4:nth-child(even) {
-	width: 80% !important;
-  min-height: 800px;
-}
-.w-dyn-list .w-col-4:nth-child(even) img {
-	min-width: 800px !important;
-  object-fit: fill;
-}
 
 .poppedup-latlong {
   font-size: 10px;
