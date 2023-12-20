@@ -32,6 +32,16 @@
   width: 100%;
 }
 
+.collection-list-2 > div:nth-child(8) {
+  grid-column: span 3;
+  width: 100%;
+}
+
+.collection-list-2 > div:nth-child(12) {
+  grid-column: span 3;
+  width: 100%;
+}
+
 .poppedup-latlong {
   font-size: 10px;
   line-height: 10px;
