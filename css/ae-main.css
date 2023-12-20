@@ -52,8 +52,13 @@ a.mapboxgl-ctrl-logo {
 }
 
 .uniformtemplate .collection-list-2 > div:nth-child(5) {
-  grid-column: span 2;
+  grid-column: span 2 !important;
 }
 .uniformtemplate .collection-list-2 > div:nth-child(5) {
   grid-column: span 1;
+}
+
+.uniformtemplate .collection-list-2 > div:nth-child(6) {
+  grid-column: span 3;
+  width: 100%;
 }
