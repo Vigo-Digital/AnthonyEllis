@@ -31,6 +31,10 @@ a.mapboxgl-ctrl-logo {
   letter-spacing: 2.75px;
 }
 
+.collection-list-2 {
+  grid-auto-columns: 2fr !important;
+}
+
 .narrativetemplate .collection-list-2 > div {
   grid-column: span 2;
 }
