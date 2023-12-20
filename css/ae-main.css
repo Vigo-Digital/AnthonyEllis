@@ -45,3 +45,15 @@ a.mapboxgl-ctrl-logo {
   grid-column: span 3;
   width: 100%;
 }
+
+.uniformtemplate .collection-list-2 > div:nth-child(4) {
+  grid-column: span 3;
+  width: 100%;
+}
+
+.uniformtemplate .collection-list-2 > div:nth-child(5) {
+  grid-column: span 2;
+}
+.uniformtemplate .collection-list-2 > div:nth-child(5) {
+  grid-column: span 1;
+}
