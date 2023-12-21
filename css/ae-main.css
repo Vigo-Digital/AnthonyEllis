@@ -55,6 +55,8 @@ figcaption {
   grid-auto-columns: 2fr !important;
 }
 
+/*Narrative*/
+
 .narrativetemplate .collection-list-2 > div {
   grid-column: span 2;
   width: 100%;
@@ -65,15 +67,16 @@ figcaption {
   width: 100%;
 }
 
-.narrativetemplate  .collection-list-2 > div:nth-child(8) {
-  grid-column: span 6;
+.narrativetemplate .collection-list-2 > div:nth-child(5) {
+  grid-column: span 3;
+  width: 100%;
+}
+.narrativetemplate .collection-list-2 > div:nth-child(6) {
+  grid-column: span 3;
   width: 100%;
 }
 
-.narrativetemplate .collection-list-2 > div:nth-child(12) {
-  grid-column: span 6;
-  width: 100%;
-}
+/*Uniform*/
 
 .uniformtemplate .collection-list-2 > div {
   grid-column: span 2;
