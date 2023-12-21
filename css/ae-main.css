@@ -33,6 +33,13 @@ a.mapboxgl-ctrl-logo {
 
 .w-lightbox-strip {
   background-color: #101011;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
 }
 
 .w-lightbox-group {
