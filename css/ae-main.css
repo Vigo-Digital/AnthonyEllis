@@ -55,7 +55,7 @@ figcaption {
   grid-auto-columns: 2fr !important;
 }
 
-.narrativetemplate .collection-list-2 div {
+.narrativetemplate .collection-list-2 > div {
   grid-column: span 2;
 }
 
@@ -74,7 +74,7 @@ figcaption {
   width: 100%;
 }
 
-.uniformtemplate .collection-list-2 div {
+.uniformtemplate .collection-list-2 > div {
   grid-column: span 2;
 }
 
