@@ -35,7 +35,7 @@ a.mapboxgl-ctrl-logo {
   background-color: #101011;
     line-height: normal;
     position: absolute;
-    top: 0;
+    bottom: 0;
     left: 0;
     right: 0;
     overflow-x: auto;
