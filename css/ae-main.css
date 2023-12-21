@@ -35,6 +35,19 @@ a.mapboxgl-ctrl-logo {
   display: none;
 }
 
+.custom-alt-strip {
+    background-color: #101011;
+    white-space: nowrap;
+    padding: 0 1vh;
+    line-height: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
 .w-lightbox-group {
   height: 100% !important;
 }
