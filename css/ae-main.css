@@ -40,6 +40,11 @@ a.mapboxgl-ctrl-logo {
     right: 0;
     overflow-x: auto;
     overflow-y: hidden;
+    min-height: 100px;
+}
+
+figcaption {
+  margin-top: 25px;
 }
 
 .w-lightbox-group {
