@@ -32,20 +32,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .w-lightbox-strip {
-  display: none;
-}
-
-.custom-alt-strip {
-    background-color: #101011;
-    white-space: nowrap;
-    padding: 0 1vh;
-    line-height: 0;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    overflow-x: auto;
-    overflow-y: hidden;
+  background-color: #101011;
 }
 
 .w-lightbox-group {
