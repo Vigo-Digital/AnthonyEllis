@@ -35,6 +35,10 @@ a.mapboxgl-ctrl-logo {
   display: none;
 }
 
+.w-lightbox-group {
+  height: 100% !important;
+}
+
 .collection-list-2 {
   grid-auto-columns: 2fr !important;
 }
