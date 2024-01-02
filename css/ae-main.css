@@ -107,6 +107,14 @@ figcaption {
   grid-column: span 3;
   width: 100%;
 }
+.narrativetemplate .collection-list-2 > div:nth-child(18) {
+  grid-column: span 3;
+  width: 100%;
+}
+.narrativetemplate .collection-list-2 > div:nth-child(19) {
+  grid-column: span 3;
+  width: 100%;
+}
 
 /*Uniform*/
 
