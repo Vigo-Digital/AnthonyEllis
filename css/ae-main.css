@@ -28,6 +28,10 @@ a.mapboxgl-ctrl-logo {
   color: white !important;
 }
 
+.captionblock.downline {
+  margin-left: 20px;
+}
+
 .downlineline {
   margin-top: 16px;
   margin-bottom: 16px;
