@@ -28,6 +28,11 @@ a.mapboxgl-ctrl-logo {
   color: white !important;
 }
 
+.downlineline {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
 .reverse {
   flex-direction: column-reverse;
 }
