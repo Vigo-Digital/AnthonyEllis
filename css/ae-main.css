@@ -91,6 +91,22 @@ figcaption {
   grid-column: span 6;
   width: 100%;
 }
+.narrativetemplate .collection-list-2 > div:nth-child(11) {
+  grid-column: span 3;
+  width: 100%;
+}
+.narrativetemplate .collection-list-2 > div:nth-child(12) {
+  grid-column: span 3;
+  width: 100%;
+}
+.narrativetemplate .collection-list-2 > div:nth-child(13) {
+  grid-column: span 3;
+  width: 100%;
+}
+.narrativetemplate .collection-list-2 > div:nth-child(14) {
+  grid-column: span 3;
+  width: 100%;
+}
 
 /*Uniform*/
 
