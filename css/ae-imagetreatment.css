@@ -11,3 +11,7 @@
     width: 552px !important;
   }
 }
+
+.w-lightbox-container {
+  z-index: 9999999 !important;
+}
