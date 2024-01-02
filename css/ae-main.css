@@ -52,7 +52,7 @@ figcaption {
 }
 
 .collection-list-2 {
-  grid-auto-columns: 2fr !important;
+  /* grid-auto-columns: 2fr !important; */
 }
 
 /*Narrative*/
