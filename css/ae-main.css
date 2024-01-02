@@ -31,6 +31,10 @@ a.mapboxgl-ctrl-logo {
 .downlineline {
   margin-top: 16px;
   margin-bottom: 16px;
+  width: 1px;
+  height: 56px;
+  background-color: var(--grey-50b);
+  margin-left: 16px;
 }
 
 .reverse {
