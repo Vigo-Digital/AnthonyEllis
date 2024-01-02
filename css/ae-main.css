@@ -21,6 +21,17 @@ a.mapboxgl-ctrl-logo {
   color: white !important;
 }
 
+.downline {
+  color: var(--Grey-50B, #878788) !important;
+}
+.downline b {
+  color: white !important;
+}
+
+.reverse {
+  flex-direction: column-reverse;
+}
+
 .captionblock {
   text-transform: uppercase;
   color: white;
