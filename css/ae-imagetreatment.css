@@ -15,3 +15,6 @@
 .w-lightbox-container {
   z-index: 9999999 !important;
 }
+#w-lightbox-view {
+  z-index: 9999999 !important;
+}
