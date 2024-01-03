@@ -13,8 +13,11 @@
 }
 
 .w-lightbox-container {
-  z-index: 9999999 !important;
+  z-index: 9000 !important;
 }
 #w-lightbox-view {
-  z-index: 9999999 !important;
+  z-index: 9000 !important;
+}
+.w-lightbox-backdrop {
+  z-index: 9000 !important;
 }
