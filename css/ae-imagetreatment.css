@@ -18,6 +18,6 @@
 .w-lightbox-backdrop {
   z-index: 9000 !important;
 }
-.portal {
+#portal {
   cursor: e-resize;
 }
