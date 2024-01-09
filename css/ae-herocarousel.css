@@ -69,3 +69,7 @@
 .mapcarousel-slide.swiper-slide {
   margin-top: 0px !important;
 }
+
+.mapcarousel-container {}
+  background-color: var(--grey-5b);
+}
