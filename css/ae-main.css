@@ -172,3 +172,7 @@ figcaption {
   grid-column: span 3;
   width: 100%;
 }
+
+.div-block-19 {
+  z-index: 99999;
+}
