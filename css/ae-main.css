@@ -168,6 +168,26 @@ figcaption {
   width: 100%;
 }
 
+.uniformtemplate .collection-list-2 > div:nth-child(9) {
+  grid-column: span 3;
+  width: 100%;
+}
+
+.uniformtemplate .collection-list-2 > div:nth-child(10) {
+  grid-column: span 3;
+  width: 100%;
+}
+
+.uniformtemplate .collection-list-2 > div:nth-child(17) {
+  grid-column: span 3;
+  width: 100%;
+}
+
+.uniformtemplate .collection-list-2 > div:nth-child(18) {
+  grid-column: span 3;
+  width: 100%;
+}
+
 .div-block-19 {
   z-index: 99999;
 }
