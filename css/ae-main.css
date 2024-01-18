@@ -188,6 +188,11 @@ figcaption {
   width: 100%;
 }
 
+.singlecolumntemplate .collection-list-2 > div {
+  grid-column: span 6;
+  width: 100%;
+}
+
 .div-block-19 {
   z-index: 99999;
 }
