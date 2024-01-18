@@ -200,3 +200,11 @@ figcaption {
 .uniformlarge {
   z-index: 9000;
 }
+
+.uniformtemplate .captionblock.upline {
+  margin-top: 92px !important;
+}
+
+.singlecolumntemplate .captionblock.upline {
+  margin-top: 92px !important;
+}
