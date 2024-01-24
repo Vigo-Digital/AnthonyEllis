@@ -229,4 +229,7 @@ figcaption {
   .nextjourney {
     display: none;
   }
+  .mapboxgl-map {
+    display: none;
+  }
 }
