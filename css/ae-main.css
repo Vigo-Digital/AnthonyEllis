@@ -212,11 +212,11 @@ figcaption {
 
 
 @media all and (max-width: 600px) {
-  .narrativetemplate .collection-list-2 div {
+  .narrativetemplate .collection-list-2 > div {
     grid-column: span 6;
     width: 100%;
   }
-  .uniformtemplate .collection-list-2 div {
+  .uniformtemplate .collection-list-2 > div {
     grid-column: span 6;
     width: 100%;
   }
