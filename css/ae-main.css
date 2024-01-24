@@ -211,8 +211,7 @@ figcaption {
 }
 
 
-@media only screen
-and (max-device-width: 600px) {
+@media all and (max-width: 600px) {
   .narrativetemplate .collection-list-2 div {
     grid-column: span 6;
     width: 100%;
