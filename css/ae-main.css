@@ -152,6 +152,7 @@ figcaption {
   width: 100%;
 }
 
+
 /*Uniform*/
 
 .uniformtemplate .collection-list-2 > div {
@@ -207,4 +208,17 @@ figcaption {
 
 .singlecolumntemplate .captionblock.upline {
   margin-top: 92px !important;
+}
+
+
+@media only screen
+and (max-device-width: 600px) {
+  .narrativetemplate .collection-list-2 div {
+    grid-column: span 6;
+    width: 100%;
+  }
+  .uniformtemplate .collection-list-2 div {
+    grid-column: span 6;
+    width: 100%;
+  }
 }
