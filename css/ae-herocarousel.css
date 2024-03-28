@@ -46,11 +46,12 @@
 }
 #countryIcon p {
   color: white;
+  font-size: 20px;
 }
 #countryIcon {
   -webkit-animation: mover 2s forwards;
   animation: mover 2s forwards;
-  max-width: 100px;
+  max-width: 200px;
 }
 @-webkit-keyframes mover {
     0% { transform: translateY(0); }
