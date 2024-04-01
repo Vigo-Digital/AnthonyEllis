@@ -73,7 +73,7 @@
 .herocarouselbutton {
   transform: translateY(20px);
   opacity: 0;
-  transition: 0.7s 1.6s;
+  transition: transform 0.7s 1.6s, opacity 0.4s;
 }
 
 .swiper-slide-active .herocarouselbutton {
