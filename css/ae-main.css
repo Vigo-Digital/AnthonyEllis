@@ -6,6 +6,10 @@ a.mapboxgl-ctrl-logo {
   display:none !important;
 }
 
+.w-lightbox-close {
+  z-index: 999999;
+}
+
 .captionblock b {
   color: white;
   font-size: 17px;
