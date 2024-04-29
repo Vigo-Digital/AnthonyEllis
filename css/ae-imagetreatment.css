@@ -13,10 +13,10 @@
 }
 
 .w-lightbox-container {
-  z-index: 9000 !important;
+  z-index: 11000 !important;
 }
 .w-lightbox-backdrop {
-  z-index: 9000 !important;
+  z-index: 11000 !important;
 }
 #portal a {
   cursor: e-resize !important;
