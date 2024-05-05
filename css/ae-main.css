@@ -237,3 +237,9 @@ figcaption {
     display: none;
   }
 }
+
+@media all and (min-width: 600px) {
+  .div-block-27 {
+    margin-left: 98px !important;
+  }
+}
