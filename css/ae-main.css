@@ -2,6 +2,10 @@ body .w-nav-link.w--current {
   color: white !important;
 }
 
+.w-input {
+  color: #B5B5B5;
+}
+
 a.mapboxgl-ctrl-logo {
   display:none !important;
 }
