@@ -63,6 +63,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .captionblock {
+  text-transform: uppercase;
   color: white;
   font-size: 11px;
   font-style: normal;
