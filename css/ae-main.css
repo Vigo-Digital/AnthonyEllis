@@ -6,6 +6,10 @@ body .w-nav-link.w--current {
   color: #B5B5B5;
 }
 
+.fs-rangeslider_fill:hover {
+  cursor:pointer;
+}
+
 a.mapboxgl-ctrl-logo {
   display:none !important;
 }
