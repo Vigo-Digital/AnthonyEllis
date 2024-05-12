@@ -62,6 +62,10 @@ a.mapboxgl-ctrl-logo {
   flex-direction: column-reverse;
 }
 
+.w-lightbox-backdrop {
+  font-family: "Proximanova" !important;
+}
+
 .captionblock {
   text-transform: uppercase;
   color: white;
