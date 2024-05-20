@@ -62,11 +62,12 @@
   max-width: 200px;
   opacity: 0;
   transition: 0.7s 1.4s;
+  /* transform: translateY(-40px); */
 }
 
 .swiper-slide-active #countryIcon {
   opacity: 1;
-  transform: translateY(20px);
+  /* transform: translateY(0); */
 }
 
 
