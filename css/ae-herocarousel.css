@@ -44,11 +44,12 @@
 
 .herocarouseltitle {
   opacity: 0;
-  transition: 0.4s 1s;
+  transition: opacity 0.7s;
 }
 
 .swiper-slide-active .herocarouseltitle {
   opacity: 1;
+  transition: opacity 1s 1.5s;
 }
 
 
@@ -73,25 +74,27 @@
   animation: mover 2s forwards; */
   max-width: 200px;
   opacity: 0;
-  transition: 0.4s 1.4s;
+  transition: transform 0s 5s, opacity 0.7s;
   transform: translateY(-40px);
 }
 
 .swiper-slide-active #countryIcon {
   opacity: 1;
   transform: translateY(0);
+  transition: transform 0.4s 2.5s, opacity 0.4s 2.5s;
 }
 
 
 .herocarouselbutton {
   transform: translateY(40px);
   opacity: 0;
-  transition: transform 0.5s 1.9s, opacity 0.5s 1.9s, background-color 0.4s;
+  transition: transform 0s 5s, opacity 0.7s, background-color 0.4s;
 }
 
 .swiper-slide-active .herocarouselbutton {
   opacity: 1;
   transform: translateY(0px);
+  transition: transform 0.5s 2.9s, opacity 0.5s 2.9s, background-color 0.4s;
 }
 
 
