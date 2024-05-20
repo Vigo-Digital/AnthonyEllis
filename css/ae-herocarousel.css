@@ -44,11 +44,11 @@
 
 .herocarouseltitle {
   opacity: 0;
+  transition: 0.4s 1s;
 }
 
 .swiper-slide-active .herocarouseltitle {
   opacity: 1;
-  transition: 0.4s 1s;
 }
 
 
