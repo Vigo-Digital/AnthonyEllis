@@ -73,7 +73,7 @@
   animation: mover 2s forwards; */
   max-width: 200px;
   opacity: 0;
-  transition: 0.4s 0.5s;
+  transition: 0.4s 1.4s;
   transform: translateY(-40px);
 }
 
@@ -86,7 +86,7 @@
 .herocarouselbutton {
   transform: translateY(40px);
   opacity: 0;
-  transition: transform 0.5s 1s, opacity 0.5s 1s, background-color 0.4s;
+  transition: transform 0.5s 1.9s, opacity 0.5s 1.9s, background-color 0.4s;
 }
 
 .swiper-slide-active .herocarouselbutton {
