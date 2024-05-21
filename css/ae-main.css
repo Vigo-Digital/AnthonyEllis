@@ -76,6 +76,10 @@ a.mapboxgl-ctrl-logo {
   letter-spacing: 2.75px;
 }
 
+.captionblock:first-letter {
+  text-transform: uppercase;
+}
+
 .w-lightbox-strip {
   background-color: #101011;
     line-height: normal;
