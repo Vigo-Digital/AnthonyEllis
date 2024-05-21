@@ -10,10 +10,10 @@ body .w-nav-link.w--current {
   cursor:pointer;
 }
 
-/*
-.lb-figcaption {
+
+.lb-figcaption::first-letter {
   text-transform: uppercase;
-}*/
+}
 
 a.mapboxgl-ctrl-logo {
   display:none !important;
