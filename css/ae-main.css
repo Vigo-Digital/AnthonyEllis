@@ -2,10 +2,7 @@ body .w-nav-link.w--current {
   color: white !important;
 }
 
-.swiper-slide-title-nj a {
-  text-decoration: none !important;
-}
-a.swiper-slide-title-nj {
+a {
   text-decoration: none !important;
 }
 
