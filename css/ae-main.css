@@ -124,7 +124,6 @@ figcaption {
   .narrativetemplate .collection-list-2 > div {
     grid-column: span 2;
     width: 100%;
-    text-align: center;
   }
 
   .narrativetemplate .collection-list-2 > div:nth-child(4) {
