@@ -10,6 +10,11 @@ a {
   margin-right: 25px;
 }
 
+.photolabel.plright {
+  float: right;
+  margin-right: 25px;
+}
+
 .w-input {
   color: #B5B5B5;
 }
