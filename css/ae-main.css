@@ -5,6 +5,9 @@ body .w-nav-link.w--current {
 .swiper-slide-title-nj a {
   text-decoration: none !important;
 }
+a.swiper-slide-title-nj {
+  text-decoration: none !important;
+}
 
 .w-input {
   color: #B5B5B5;
