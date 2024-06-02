@@ -6,6 +6,10 @@ a {
   text-decoration: none !important;
 }
 
+.text-block-10 {
+  margin-right: 25px;
+}
+
 .w-input {
   color: #B5B5B5;
 }
