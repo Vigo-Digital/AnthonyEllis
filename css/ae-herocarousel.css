@@ -81,7 +81,7 @@
 .swiper-slide-active #countryIcon {
   opacity: 1;
   transform: translateY(0);
-  transition: transform 0.4s 2.4s, opacity 1.4s 2.4s;
+  transition: transform 0.4s 2.4s, opacity 1.8s 2.4s;
 }
 
 
@@ -94,7 +94,7 @@
 .swiper-slide-active .herocarouselbutton {
   opacity: 1;
   transform: translateY(0px);
-  transition: transform 0.4s 2.8s, opacity 1.4s 2.8s, background-color 0.4s;
+  transition: transform 0.4s 2.8s, opacity 1.8s 2.8s, background-color 0.4s;
 }
 
 
