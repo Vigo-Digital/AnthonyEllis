@@ -2,6 +2,19 @@ body .w-nav-link.w--current {
   color: white !important;
 }
 
+a {
+  text-decoration: none !important;
+}
+
+.text-block-10 {
+  margin-right: 25px;
+}
+
+.photolabel.plright {
+  float: right;
+  margin-right: 50px;
+}
+
 .w-input {
   color: #B5B5B5;
 }
@@ -10,10 +23,10 @@ body .w-nav-link.w--current {
   cursor:pointer;
 }
 
-/*
-.lb-figcaption {
+
+.lb-figcaption::first-letter {
   text-transform: uppercase;
-}*/
+}
 
 a.mapboxgl-ctrl-logo {
   display:none !important;
@@ -67,13 +80,17 @@ a.mapboxgl-ctrl-logo {
 }
 
 .captionblock {
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   color: white;
   font-size: 11px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
   letter-spacing: 2.75px;
+}
+
+.captionblock:first-letter {
+  text-transform: uppercase;
 }
 
 .w-lightbox-strip {
