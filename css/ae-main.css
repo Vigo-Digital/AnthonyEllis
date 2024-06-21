@@ -261,6 +261,21 @@ figcaption {
 }
 
 
+
+@media all and (min-width: 1600px) {
+  #w-node-_2f61a3d3-a877-cb77-aece-70c3b6e11b92-77e25734 {
+    aspect-ratio: 360 / 241;
+  }
+}
+
+
+@media all and (min-width: 930px) {
+  #w-node-c7736b18-07e9-a348-b505-c96d42c1bdfb-77e25734 {
+    aspect-ratio: 67 / 80;
+  }
+}
+
+
 @media all and (max-width: 600px) {
   .narrativetemplate .collection-list-2 > div {
     grid-column: span 6;
@@ -282,5 +297,13 @@ figcaption {
 @media all and (min-width: 600px) {
   .div-block-27 {
     margin-left: 98px !important;
+  }
+}
+
+
+
+@media screen and (max-width: 479px) {
+  body .mapcarousel-container {
+    padding-top: 0;
   }
 }
