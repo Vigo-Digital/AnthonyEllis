@@ -117,6 +117,12 @@ figcaption {
   /* grid-auto-columns: 2fr !important; */
 }
 
+
+
+.gallery-header-overlay {
+  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, 0) 99px, rgba(0, 0, 0, 0) 74%, rgba(0, 0, 0, .3));
+}
+
 /*Narrative*/
 
 @media all and (min-width: 600px) {
