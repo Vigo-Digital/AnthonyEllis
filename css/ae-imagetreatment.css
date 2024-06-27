@@ -18,6 +18,11 @@
 .w-lightbox-backdrop {
   z-index: 11000 !important;
 }
+
+.w-lightbox-strip {
+  background-color: transparent;
+}
+
 #portal a {
   cursor: e-resize !important;
 }
