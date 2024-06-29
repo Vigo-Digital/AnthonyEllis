@@ -332,6 +332,6 @@ body .gallery-header-overlay {
 and (min-device-width: 600px)
 and (max-device-width : 1024px) {
   .floatybutton {
-    display: block;
+    display: block !important;
   }
 }
