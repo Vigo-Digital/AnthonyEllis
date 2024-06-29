@@ -7,7 +7,7 @@ const options = {
   },
   body: JSON.stringify({
     triggerType: 'collection_item_changed',
-    url: 'https://hooks.airtable.com/workflows/v1/genericWebhook/appA94RQLjDjFYKbH/wfloZUYcCMcaPULDm/wtryPTvIk4i2diJE0'
+    url: 'https://hooks.airtable.com/workflows/v1/genericWebhook/appA94RQLjDjFYKbH/wfldfsOvp7u205N52/wtrTQ8HzoMe5iSuon'
   })
 };
 
