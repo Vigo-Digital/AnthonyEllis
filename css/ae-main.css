@@ -320,6 +320,12 @@ body .gallery-header-overlay {
   }
 }
 
+@media only screen and (max-width:320px) {}
+  .div-block-17-right {
+    display: block !important;
+  }
+}
+
 
 
 @media screen and (max-width: 479px) {
