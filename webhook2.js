@@ -3,7 +3,7 @@ const options = {
   headers: {
     accept: 'application/json',
     'content-type': 'application/json',
-    authorization: 'Bearer fc6542dbe9ceb205729c0632b743d5b05a578eafe1c7f0c5904ad84a6f47377b'
+    authorization: 'Bearer 11b6e7998d431ff5be6d0611d101e05ffabf381eb6b7513ec595c70444d375f5'
   },
   body: JSON.stringify({
     triggerType: 'collection_item_changed',
