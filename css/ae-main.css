@@ -44,6 +44,10 @@ a.mapboxgl-ctrl-logo {
   letter-spacing: 0.17px;
 }
 
+.captionblock::first-letter {
+  text-transform: uppercase;
+}
+
 .upline {
   color: var(--Grey-50B, #878788) !important;
 }
