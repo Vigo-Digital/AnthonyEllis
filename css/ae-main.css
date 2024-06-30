@@ -93,8 +93,8 @@ a.mapboxgl-ctrl-logo {
   letter-spacing: 2.75px;
 }
 
-.captionblock:first-letter {
-  text-transform: uppercase;
+.captionblock b::first-letter {
+  text-transform: uppercase !important;
 }
 
 .w-lightbox-strip {
