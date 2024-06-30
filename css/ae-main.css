@@ -92,6 +92,9 @@ a.mapboxgl-ctrl-logo {
   line-height: normal;
   letter-spacing: 2.75px;
 }
+.captionblock::first-letter {
+  text-transform: uppercase !important;
+}
 
 .captionblock b::first-letter {
   text-transform: uppercase !important;
