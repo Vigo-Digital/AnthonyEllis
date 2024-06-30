@@ -44,7 +44,7 @@ a.mapboxgl-ctrl-logo {
   letter-spacing: 0.17px;
 }
 
-.captionblock::first-letter {
+.captionblock b::first-letter {
   text-transform: uppercase !important;
 }
 
