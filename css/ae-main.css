@@ -331,6 +331,9 @@ body .gallery-header-overlay {
   .leftimageblock {
     display: flow !important;
   }
+  .div-block-14 {
+    flex-direction: column-reverse;
+  }
 }
 
 
