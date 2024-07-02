@@ -334,6 +334,10 @@ body .gallery-header-overlay {
   .div-block-14 {
     flex-direction: column-reverse;
   }
+  .div-block-14-left {
+    display: flex;
+    flex-direction: column-reverse;
+  }
 }
 
 
