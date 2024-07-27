@@ -49,8 +49,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .upline {
-  /*color: var(--Grey-50B, #878788) !important;*/
-  color: white !important;
+  color: var(--Grey-50B, #878788) !important;
 }
 .upline b {
   color: white !important;
@@ -279,7 +278,6 @@ body .gallery-header-overlay {
 
 .narrativetemplate .captionblock.upline {
     text-transform: uppercase;
-    color: white !important;
     font-size: 11px;
     font-style: normal;
     font-weight: 600;
