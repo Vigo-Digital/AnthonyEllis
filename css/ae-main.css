@@ -85,7 +85,7 @@ a.mapboxgl-ctrl-logo {
 
 .captionblock {
   /*text-transform: uppercase;*/
-  color: white;
+  color: var(--Grey-50B, #878788) !important;
   font-size: 11px;
   font-style: normal;
   font-weight: 600;
