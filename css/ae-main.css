@@ -277,7 +277,13 @@ body .gallery-header-overlay {
 }
 
 .narrativetemplate .captionblock.upline {
-  all: unset;
+    text-transform: uppercase;
+    color: white;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 2.75px;
 }
 
 .uniformtemplate .captionblock.upline {
