@@ -276,6 +276,10 @@ body .gallery-header-overlay {
   z-index: 9000;
 }
 
+.narrativetemplate .captionblock.upline {
+  all: unset;
+}
+
 .uniformtemplate .captionblock.upline {
   margin-top: 92px !important;
 }
