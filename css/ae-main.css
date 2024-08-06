@@ -364,3 +364,7 @@ and (max-device-width : 1024px) {
     display: block !important;
   }
 }
+
+.div-block-19 {
+  min-width: 700px !important;
+}
