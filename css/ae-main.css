@@ -365,8 +365,10 @@ and (max-device-width : 1024px) {
   }
 }
 
+@media screen and (min-width: 479px) {
 .div-block-19 {
   min-width: 700px !important;
+}
 }
 
 @media screen and (max-width: 479px) {
