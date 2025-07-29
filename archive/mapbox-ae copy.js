@@ -1,5 +1,5 @@
 	let rangeYearFrom = "1990";
-  let rangeYearTo = "2023";
+  let rangeYearTo = "2025";
 
   const input = document.querySelector("input");
   input.addEventListener("input", function(event) {
@@ -121,7 +121,7 @@
 
 			let years = location.querySelector("#years").value;
 			let fromYear = "1990";
-			let toYear = "2023";
+			let toYear = "2025";
       let mapPinLocation = location.querySelector("#mapPinLocation").value;
       let mapPinLocationOverride = location.querySelector("#mapPinLocationOverride").value;
 			let locationInfo = location.querySelector(".locations-map_card").innerHTML;
