@@ -286,8 +286,11 @@ body .gallery-header-overlay {
 
 #SingleColumnTemplate img#Multi-Image-0 {
   display: block !important;
-  margin-left: auto  !important;
+  margin-left: 220px  !important;
   margin-right: auto  !important;
+}
+#FirstBlock {
+  margin-left: 220px !important;
 }
 
 .div-block-19 {
