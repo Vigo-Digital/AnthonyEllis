@@ -283,6 +283,9 @@ body .gallery-header-overlay {
   width: 100%;
 }
 
+#SingleColumnTemplate > div.w-layout-blockcontainer.container-9.w-container > div:nth-child(1) > div.w-dyn-items > div > div {
+  text-align: center;
+}
 
 .div-block-19 {
   z-index: 9000;
