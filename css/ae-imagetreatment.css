@@ -17,6 +17,7 @@
 }
 .w-lightbox-backdrop {
   z-index: 11000 !important;
+  background-color: black;
 }
 
 .w-lightbox-strip {
