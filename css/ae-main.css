@@ -283,10 +283,11 @@ body .gallery-header-overlay {
   width: 100%;
 }
 
-#SingleColumnTemplate img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+
+#SingleColumnTemplate img#Multi-Image-0 {
+  display: block !important;
+  margin-left: auto  !important;
+  margin-right: auto  !important;
 }
 
 .div-block-19 {
