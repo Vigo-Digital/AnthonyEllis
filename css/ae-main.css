@@ -45,7 +45,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .captionblock b::first-letter {
-  text-transform: uppercase !important;
+   /* text-transform: uppercase !important; */
 }
 
 .uppline {
